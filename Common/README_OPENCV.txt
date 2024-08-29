@@ -1,0 +1,1 @@
+You can extract the open cv installer in the Common folder, and you won't be needing to import the libraries manually. Install open cv here: https://opencv.org/get-started/
